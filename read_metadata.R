@@ -1,5 +1,4 @@
 library(yaml)
-library(dplyr)
 library(tidyverse)
 
 load_csv_using_yaml <- function(
